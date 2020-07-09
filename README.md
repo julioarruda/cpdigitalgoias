@@ -1,4 +1,5 @@
-# cpdigitalgoias
+# Campus Party Digital Goiás 2020
+
 Repositório utilizado para a Palestra da Campus Party Digital Goias
 
 Neste repositório, temos:
