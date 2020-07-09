@@ -5,3 +5,5 @@ Neste repositório, temos:
 
 - Aplicação Web .Net Core
 - GitHub Actions
+
+![Alt text](20200630_182045863_iOS.jpg)
